@@ -1,0 +1,12 @@
+Uuid: dfa38697ab70478dad13d5d575ded375
+ExtensionType: 1
+Name: SSRF King, Automated SSRF Detection
+RepoName: ssrf-king
+ScreenVersion: 1.12
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Blake Jacobs
+ShortDescription: SSRF plugin for burp that Automates SSRF Detection
+EntryPoint: build/libs/ssrf-king.jar
+BuildCommand: gradle build
